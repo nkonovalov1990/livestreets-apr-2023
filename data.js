@@ -7,11 +7,12 @@ const PLANS = [
   {
     title: 'Проект Живых улиц',
     map: 'amundsena_obezdnaya_predlozheniya_zhivykh_ulicz.jpg',
-    default: true
+    old: true 
   },
   {
     title: 'Ситуация',
     map: 'amundsena_obezdnaya_iskhodnaya_situacziya.jpg',
-    old: true
+    old: true,
+    default: true
   }
 ];
